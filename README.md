@@ -1,4 +1,8 @@
-# 💫 About Me:
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Teacher;Full+Stack+Web+Developer;Freelancer;MERN+Stack+Developer;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
+</p>
+
+# 💫 HELLO WORLD: 
 Soy desarrollador web front-end, cuento con 5 años de experiencia programando en aplicaciones en entorno FrontEnd utilizando varias tecnologías tanto para aplicaciones de empresas como San Fernando, Redondos, Talsa, Viru, PetroPeru, Paramonga, entre otros. Estuve liderando proyectos con ERPs. Actualmente me encuentro desarrollando en componentes en React, NodeJS con HTML5, CSS3, Bootstrap, Responsive Desing. He aplicado el diseño UX UI según requerimientos de los clientes. También he trabajado con PHP y java. Además, utilizo herramientas como Git con GitHub, GitLab.<br><br>Tengo experiencia trabajando en equipos multidisciplinarios y bajo una metodología ágil usando Jira y Trello, de esta manera logre liderar junto a mi equipo en el área de innovación en la empresa Rivercon. Desarrollé productos en la nube de gestión de recursos empresarias para distintas compañías.<br><br>Demuestro capacidad en la toma de decisiones, planificación de recursos, implementaciones en código y propuestas creativas.
 
 
