@@ -4,7 +4,8 @@
 
 # 💫 HELLO WORLD: 
 <img align="right" style="margin: 50px;" src="https://github.com/gatodemontecristo/gatodemontecristo/blob/main/type.gif" alt="" width="350" heigth="350" />
-Soy desarrollador web front-end, cuento con 5 años de experiencia programando en aplicaciones en entorno FrontEnd utilizando varias tecnologías tanto para aplicaciones de empresas como San Fernando, Redondos, Talsa, Viru, PetroPeru, Paramonga, entre otros. Estuve liderando proyectos con ERPs. Actualmente me encuentro desarrollando en componentes en React, NodeJS con HTML5, CSS3, Bootstrap, Responsive Desing. He aplicado el diseño UX UI según requerimientos de los clientes. También he trabajado con PHP y java. Además, utilizo herramientas como Git con GitHub, GitLab.<br><br>Tengo experiencia trabajando en equipos multidisciplinarios y bajo una metodología ágil usando Jira y Trello, de esta manera logre liderar junto a mi equipo en el área de innovación en la empresa Rivercon. Desarrollé productos en la nube de gestión de recursos empresarias para distintas compañías.<br><br>Demuestro capacidad en la toma de decisiones, planificación de recursos, implementaciones en código y propuestas creativas.
+
+Passionate Frontend Developer with 5 years of experience building dynamic, user-friendly web applications. Proficient in modern technologies, including React, TypeScript, React Query, Next.js, and TailwindCSS, I specialize in creating scalable and maintainable solutions. With expertise in state management using Zustand, backend integration with Node.js and Firebase, and deployment on AWS, I thrive on solving complex challenges and delivering high-quality, performant products. I’m driven by continuous learning and collaboration, always aiming to create impactful digital experiences that delight users.
 
 
 ## 🌐 Socials:
