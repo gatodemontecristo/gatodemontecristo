@@ -29,3 +29,5 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_timezone: America/Bogota
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
