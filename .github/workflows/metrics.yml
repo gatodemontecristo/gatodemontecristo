@@ -31,6 +31,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: columns
+          config_padding: 0, 4 + 0%
           config_timezone: America/Bogota
           plugin_activity: yes
           plugin_activity_days: 14
