@@ -1,5 +1,5 @@
 
-<div width="100%">
+<div width="100%" heigth="100%">
 <img src="/github-metrics.svg" alt="Metrics" width="100%">
 </div>
 
